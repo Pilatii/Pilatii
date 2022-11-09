@@ -7,11 +7,17 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Java**
 
-- 💬 Ask me about **Hardware**
+- ❓ Ask me about **Hardware**
 
 - 📫 How to reach me **gabrielms1504@gmail.com**
 
 - ⚡ Fun fact **I like to learn**
+
+- 💻 First year of **computer science**
+
+- 💬 English level: **Basic**
+
+- 🎈 **18 Years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
