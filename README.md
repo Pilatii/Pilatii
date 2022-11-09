@@ -1,5 +1,7 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gabriel Pilati</h1>
 <h3 align="center">A developer in development.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilatii&label=Profile%20views&color=0e75b6&style=flat" alt="pilatii" /> </p>
 
@@ -8,8 +10,6 @@
 - 💬 Ask me about **Hardware**
 
 - 📫 How to reach me **gabrielms1504@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/skill-assessments/hub/quizzes/](https://www.linkedin.com/skill-assessments/hub/quizzes/)
 
 - ⚡ Fun fact **I like to learn**
 
