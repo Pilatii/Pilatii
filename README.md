@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Java**
 
-- ❓ Ask me about **Hardware**
+- ❓  Ask me about **Hardware**
 
 - 📫 How to reach me **gabrielms1504@gmail.com**
 
