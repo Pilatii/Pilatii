@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **gabrielms1504@gmail.com**
 
-- ⚡ Fun fact **I like to learn**
-
 - 💻 First year of **computer science**
 
 - 💬 English level: **Basic**
