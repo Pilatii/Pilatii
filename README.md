@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilatii&label=Profile%20views&color=0e75b6&style=flat" alt="pilatii" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Java**
-
 - ❓  Ask me about **Hardware**
 
 - 📫 How to reach me **gabrielms1504@gmail.com**
 
-- 💻 First year of **computer science**
+- 💻 Third year of **computer science**
 
-- 💬 English level: **Basic**
+- 💬 English level: **Intermediary**
 
-- 🎈 **18 Years**
+- 🎈 **20 Years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
